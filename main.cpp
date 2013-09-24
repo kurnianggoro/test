@@ -33,7 +33,7 @@ int main( int argc, char** argv )
   cvtColor( image, gray_image, CV_BGR2GRAY );
   cvtColor( image2, gray_image_right, CV_BGR2GRAY );
   
-
+tes
   
   unsigned char *IM1 = (unsigned char *)(gray_image.data);
   
